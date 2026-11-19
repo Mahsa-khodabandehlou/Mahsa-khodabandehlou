@@ -27,11 +27,4 @@ Currently looking for **Data Analyst / Junior Data Scientist** opportunities whe
 
 ---
 
-### 📊 GitHub Stats
-
-![Mahsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=machilll&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machilll&layout=compact)
-
----
-
 ⭐️ Feel free to check out my [resume](https://github.com/machilll/machilll/blob/main/MK-CV..pdf) or [portfolio](https://htmlpreview.github.io/?https://github.com/machilll/machilll/blob/main/mahsa-portfolio.html) for the full picture, or reach out — always happy to talk data.
