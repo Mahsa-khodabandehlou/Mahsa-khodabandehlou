@@ -6,7 +6,7 @@ Currently looking for **Data Analyst / Junior Data Scientist** opportunities whe
 
 - 🔭 Currently exploring: applied time series methods & interactive data storytelling
 - 🌱 Currently learning: cloud tools for data workflows
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mahsa-khodabandehlou-data-scientist) · [Telegram](https://t.me/Machilll) · machilll2002@gmail.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mahsa-khodabandehlou-data-scientist) · [Telegram](https://t.me/eng_mhsa) · machilll2002@gmail.com
 
 ---
 
